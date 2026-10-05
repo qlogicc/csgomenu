@@ -1,4 +1,4 @@
-local SentinelUI = loadstring(game:HttpGet("RAW_GITHUB_URL"))()
+local SentinelUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/qlogicc/csgomenu/refs/heads/main/sentinel.lua"))()
 
 -- In production: replace with loadstring(game:HttpGet("..."))()
 local SentinelUI = require(script.Parent.SentinelUI)
